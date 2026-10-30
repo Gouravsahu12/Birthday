@@ -1,0 +1,86 @@
+[
+  {
+    "id": "photo-1",
+    "title": "College Mornings",
+    "caption": "That effortless radiant smile that brightens up even early morning lectures.",
+    "src": "/images/gallery/photo-01.jpg",
+    "tag": "Campus Days"
+  },
+  {
+    "id": "photo-2",
+    "title": "Laughter Over Chai",
+    "caption": "Where two minutes turned into two hours of non-stop talking and shared jokes.",
+    "src": "/images/gallery/photo-02.jpg",
+    "tag": "Little Things"
+  },
+  {
+    "id": "photo-3",
+    "title": "The Best Candid",
+    "caption": "Caught mid-laugh without a care in the world. Always preserve this joy.",
+    "src": "/images/gallery/photo-03.jpg",
+    "tag": "Pure Joy"
+  },
+  {
+    "id": "photo-4",
+    "title": "Golden Hour Walk",
+    "caption": "Quiet strolls where the sky matched your calm, gentle energy.",
+    "src": "/images/gallery/photo-04.jpg",
+    "tag": "Serenity"
+  },
+  {
+    "id": "photo-5",
+    "title": "Exam Season Survival",
+    "caption": "Shared panic, notes exchanged at 2 AM, and victorious treats after.",
+    "src": "/images/gallery/photo-05.jpg",
+    "tag": "College Life"
+  },
+  {
+    "id": "photo-6",
+    "title": "Here’s to Nineteen",
+    "caption": "Stepping into 19 with grace, kindness, and boundless dreams ahead.",
+    "src": "/images/gallery/photo-06.jpg",
+    "tag": "Chapter 19"
+  },
+  {
+    "id": "photo-7",
+    "title": "Candid Warmth",
+    "caption": "Genuine moments of laughter that remind me why you make every day so bright.",
+    "src": "/images/gallery/photo-07.png",
+    "tag": "Special Memories"
+  },
+  {
+    "id": "photo-8",
+    "title": "Joyful Moments",
+    "caption": "Unfiltered happiness and good times that make college unforgettable.",
+    "src": "/images/gallery/photo-08.jpg",
+    "tag": "Everyday Smiles"
+  },
+  {
+    "id": "photo-9",
+    "title": "Radiant Spirit",
+    "caption": "Your calm, positive energy brings warmth wherever you are.",
+    "src": "/images/gallery/photo-09.png",
+    "tag": "Sunshine"
+  },
+  {
+    "id": "photo-10",
+    "title": "Golden Days",
+    "caption": "Looking back at moments that turned into our favorite inside jokes.",
+    "src": "/images/gallery/photo-10.jpg",
+    "tag": "Good Times"
+  },
+  {
+    "id": "photo-11",
+    "title": "Forever Friends",
+    "caption": "Through thick and thin, through chaotic assignments and late night chats.",
+    "src": "/images/gallery/photo-11.jpg",
+    "tag": "Besties"
+  },
+  {
+    "id": "photo-12",
+    "title": "Sweet 19",
+    "caption": "Stepping into 19 with all the magic and wonderful adventures waiting for you.",
+    "src": "/images/gallery/photo-12.png",
+    "tag": "Nineteen"
+  }
+]

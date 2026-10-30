@@ -1,0 +1,6 @@
+{
+  "name": "A Little World for Kavisha - 19th Birthday",
+  "description": "A dreamy floral birthday celebration and countdown website for Kavisha's 19th birthday, created by Gourav.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
